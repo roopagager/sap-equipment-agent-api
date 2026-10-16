@@ -1,0 +1,45 @@
+{
+ "_note": "Captured from SAP Business Accelerator Hub sandbox (API Hub Try Out), 2026-10-16. Trimmed to the fields this service uses.",
+ "d": {
+  "results": [
+   {
+    "Equipment": "10001883",
+    "EquipmentName": "Cooling Water Circulation Pump",
+    "EquipmentCategory": "M",
+    "MaintenancePlant": "1010",
+    "FunctionalLocation": "A1010-CWS-WCS",
+    "FunctionalLocationName": "Cooling Water Circulation System",
+    "AssetManufacturerName": "",
+    "ManufacturerSerialNumber": "",
+    "MainWorkCenter": "AMS-100",
+    "MaintenancePlannerGroup": "920",
+    "EquipmentIsInstalled": true,
+    "EquipmentIsAvailable": false,
+    "EquipmentIsInactive": false,
+    "EquipmentIsMarkedForDeletion": false,
+    "OperationStartDate": null,
+    "ValidityStartDate": "/Date(1607644800000)/",
+    "ValidityEndDate": "/Date(1621555200000)/"
+   },
+   {
+    "Equipment": "10001883",
+    "EquipmentName": "Cooling Water Circulation Pump",
+    "EquipmentCategory": "M",
+    "MaintenancePlant": "1010",
+    "FunctionalLocation": "A1010-CWS-WCS",
+    "FunctionalLocationName": "Cooling Water Circulation System",
+    "AssetManufacturerName": "",
+    "ManufacturerSerialNumber": "",
+    "MainWorkCenter": "AMS-100",
+    "MaintenancePlannerGroup": "920",
+    "EquipmentIsInstalled": true,
+    "EquipmentIsAvailable": false,
+    "EquipmentIsInactive": false,
+    "EquipmentIsMarkedForDeletion": false,
+    "OperationStartDate": null,
+    "ValidityStartDate": "/Date(1621555200000)/",
+    "ValidityEndDate": "/Date(253402214400000)/"
+   }
+  ]
+ }
+}

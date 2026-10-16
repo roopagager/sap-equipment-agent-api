@@ -70,3 +70,21 @@ def test_cache_avoids_second_sap_call():
 def test_odata_date_parsing():
     assert odata_date("/Date(1788825600000)/") == date(2026, 9, 8)
     assert odata_date(None) is None and odata_date("") is None
+
+
+def test_uses_current_validity_segment():
+    """Real sandbox returns several time segments per equipment; the open-ended one wins."""
+    class Two:
+        mode = "fixture"
+        def query(self, entity, filters, select=None, limit=None):
+            if entity == "Equipment":
+                return [
+                    {"Equipment": "10001883", "ValidityEndDate": "/Date(253402214400000)/",
+                     "EquipmentName": "Current", "EquipmentIsInstalled": True},
+                    {"Equipment": "10001883", "ValidityEndDate": "/Date(1621555200000)/",
+                     "EquipmentName": "Old", "EquipmentIsInstalled": False},
+                ]
+            return []
+    s = EquipmentService(Two(), cache_seconds=0).summary("10001883")
+    assert s.description == "Current"
+    assert s.status == "Installed - in service"

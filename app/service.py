@@ -77,7 +77,9 @@ class EquipmentService:
         rows = self.client.query("Equipment", {"Equipment": equipment})
         if not rows:
             raise LookupError(f"equipment {equipment} not found")
-        eq = rows[0]
+        # API_EQUIPMENT keys on (Equipment, ValidityEndDate): one equipment can have several
+        # time segments. Use the current one (latest ValidityEndDate, open-ended = 9999-12-31).
+        eq = max(rows, key=lambda r: odata_date(r.get("ValidityEndDate")) or date.max)
         orders = self.client.query("MaintenanceOrder", {"Equipment": equipment})
         orders.sort(key=lambda o: odata_date(o.get("MaintOrdBasicStartDate")) or date.min, reverse=True)
         done = [o for o in orders if _is_done(o)]

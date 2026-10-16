@@ -1,0 +1,257 @@
+{
+ "_note": "Captured from SAP Business Accelerator Hub sandbox (API Hub Try Out), 2026-10-16. Trimmed to the fields this service uses.",
+ "d": {
+  "results": [
+   {
+    "MaintenanceOrder": "4000080",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623715200000)/",
+    "MaintOrdBasicEndDate": "/Date(1623715200000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000081",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000082",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000083",
+    "MaintenanceOrderDesc": "Low Output",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000084",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000085",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000086",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000087",
+    "MaintenanceOrderDesc": "Low output",
+    "MaintOrdBasicStartDate": "/Date(1623888000000)/",
+    "MaintOrdBasicEndDate": "/Date(1623888000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000100",
+    "MaintenanceOrderDesc": "leakage",
+    "MaintOrdBasicStartDate": "/Date(1624233600000)/",
+    "MaintOrdBasicEndDate": "/Date(1624233600000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000102",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1625011200000)/",
+    "MaintOrdBasicEndDate": "/Date(1625011200000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000120",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1625443200000)/",
+    "MaintOrdBasicEndDate": "/Date(1625443200000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000122",
+    "MaintenanceOrderDesc": "Erratic output",
+    "MaintOrdBasicStartDate": "/Date(1625443200000)/",
+    "MaintOrdBasicEndDate": "/Date(1625529600000)/",
+    "SystemStatusText": "CRTD MACM",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000123",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1625702400000)/",
+    "MaintOrdBasicEndDate": "/Date(1625702400000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000124",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1625788800000)/",
+    "MaintOrdBasicEndDate": "/Date(1626048000000)/",
+    "SystemStatusText": "CRTD MACM",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000125",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1626048000000)/",
+    "MaintOrdBasicEndDate": "/Date(1626048000000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000126",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1626048000000)/",
+    "MaintOrdBasicEndDate": "/Date(1626048000000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000140",
+    "MaintenanceOrderDesc": "Leakage in Pump",
+    "MaintOrdBasicStartDate": "/Date(1628726400000)/",
+    "MaintOrdBasicEndDate": "/Date(1629331200000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000155",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1629417600000)/",
+    "MaintOrdBasicEndDate": "/Date(1629676800000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000156",
+    "MaintenanceOrderDesc": "Improvement Maintenance",
+    "MaintOrdBasicStartDate": "/Date(1629158400000)/",
+    "MaintOrdBasicEndDate": "/Date(1629244800000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000159",
+    "MaintenanceOrderDesc": "Improvement Maintenance",
+    "MaintOrdBasicStartDate": "/Date(1629244800000)/",
+    "MaintOrdBasicEndDate": "/Date(1629244800000)/",
+    "SystemStatusText": "TECO PCNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000160",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1629244800000)/",
+    "MaintOrdBasicEndDate": "/Date(1629331200000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000165",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1629417600000)/",
+    "MaintOrdBasicEndDate": "/Date(1629417600000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000166",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1629676800000)/",
+    "MaintOrdBasicEndDate": "/Date(1629763200000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000167",
+    "MaintenanceOrderDesc": "Leakage",
+    "MaintOrdBasicStartDate": "/Date(1629849600000)/",
+    "MaintOrdBasicEndDate": "/Date(1629849600000)/",
+    "SystemStatusText": "CLSD CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   },
+   {
+    "MaintenanceOrder": "4000241",
+    "MaintenanceOrderDesc": "Low Output",
+    "MaintOrdBasicStartDate": "/Date(1660694400000)/",
+    "MaintOrdBasicEndDate": "/Date(1660780800000)/",
+    "SystemStatusText": "TECO CNF",
+    "MaintOrdPersonResponsible": "",
+    "Equipment": "10001883",
+    "MainWorkCenter": "AMS-100"
+   }
+  ]
+ }
+}
