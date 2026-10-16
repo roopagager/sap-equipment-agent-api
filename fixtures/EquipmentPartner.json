@@ -1,0 +1,24 @@
+{
+ "d": {
+  "results": [
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "Equipment": "10000002",
+    "PartnerFunction": "VW",
+    "EquipmentPartnerObjectNmbr": "1",
+    "Partner": "50002201"
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "Equipment": "10000002",
+    "PartnerFunction": "AG",
+    "EquipmentPartnerObjectNmbr": "2",
+    "Partner": "17100001"
+   }
+  ]
+ }
+}

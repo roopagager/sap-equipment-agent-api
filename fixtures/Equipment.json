@@ -1,0 +1,72 @@
+{
+ "d": {
+  "results": [
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "Equipment": "10000001",
+    "ValidityEndDate": "/Date(253402214400000)/",
+    "EquipmentName": "Chiller unit, Building A",
+    "EquipmentCategory": "M",
+    "TechnicalObjectType": "CHILLER",
+    "MaintenancePlant": "1010",
+    "FunctionalLocation": "1010-LDN-A-ROOF",
+    "FunctionalLocationName": "London site / Building A / Roof plant",
+    "AssetManufacturerName": "Carrier",
+    "ManufacturerSerialNumber": "CX-77812",
+    "MainWorkCenter": "MECH-01",
+    "MaintenancePlannerGroup": "100",
+    "OperationStartDate": "/Date(1552348800000)/",
+    "EquipmentIsInstalled": true,
+    "EquipmentIsAvailable": false,
+    "EquipmentIsInactive": false,
+    "EquipmentIsMarkedForDeletion": false
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "Equipment": "10000002",
+    "ValidityEndDate": "/Date(253402214400000)/",
+    "EquipmentName": "Lift motor, Building B",
+    "EquipmentCategory": "M",
+    "TechnicalObjectType": "LIFT",
+    "MaintenancePlant": "1010",
+    "FunctionalLocation": "1010-LDN-B-CORE",
+    "FunctionalLocationName": "London site / Building B / Lift core",
+    "AssetManufacturerName": "Otis",
+    "ManufacturerSerialNumber": "OT-55120",
+    "MainWorkCenter": "ELEC-02",
+    "MaintenancePlannerGroup": "100",
+    "OperationStartDate": "/Date(1622505600000)/",
+    "EquipmentIsInstalled": true,
+    "EquipmentIsAvailable": false,
+    "EquipmentIsInactive": false,
+    "EquipmentIsMarkedForDeletion": false
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "Equipment": "10000003",
+    "ValidityEndDate": "/Date(253402214400000)/",
+    "EquipmentName": "Standby generator (decommissioned)",
+    "EquipmentCategory": "M",
+    "TechnicalObjectType": "GENSET",
+    "MaintenancePlant": "1010",
+    "FunctionalLocation": "",
+    "FunctionalLocationName": "",
+    "AssetManufacturerName": "Cummins",
+    "ManufacturerSerialNumber": "CU-1009",
+    "MainWorkCenter": "MECH-01",
+    "MaintenancePlannerGroup": "100",
+    "OperationStartDate": "/Date(1328054400000)/",
+    "EquipmentIsInstalled": false,
+    "EquipmentIsAvailable": false,
+    "EquipmentIsInactive": true,
+    "EquipmentIsMarkedForDeletion": false
+   }
+  ]
+ }
+}

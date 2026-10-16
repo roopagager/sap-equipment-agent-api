@@ -1,0 +1,63 @@
+{
+ "d": {
+  "results": [
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "MaintenanceOrder": "4000001",
+    "MaintenanceOrderType": "PM02",
+    "MaintenanceOrderDesc": "Annual chiller service",
+    "Equipment": "10000001",
+    "MaintOrdBasicStartDate": "/Date(1772409600000)/",
+    "MaintOrdBasicEndDate": "/Date(1772582400000)/",
+    "SystemStatusText": "CLSD NMAT PRC",
+    "MaintOrdPersonResponsible": "50001234",
+    "MainWorkCenter": "MECH-01"
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "MaintenanceOrder": "4000007",
+    "MaintenanceOrderType": "PM02",
+    "MaintenanceOrderDesc": "Quarterly filter change",
+    "Equipment": "10000001",
+    "MaintenanceActivityType": "002",
+    "MaintOrdBasicStartDate": "/Date(1788825600000)/",
+    "MaintOrdBasicEndDate": "/Date(1788825600000)/",
+    "SystemStatusText": "TECO NMAT PRC",
+    "MaintOrdPersonResponsible": "50001234",
+    "MainWorkCenter": "MECH-01"
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "MaintenanceOrder": "4000011",
+    "MaintenanceOrderType": "PM01",
+    "MaintenanceOrderDesc": "Compressor high-pressure trip",
+    "Equipment": "10000001",
+    "MaintOrdBasicStartDate": "/Date(1791936000000)/",
+    "MaintOrdBasicEndDate": "/Date(1792195200000)/",
+    "SystemStatusText": "REL NMAT PRC",
+    "MaintOrdPersonResponsible": "50001877",
+    "MainWorkCenter": "MECH-01"
+   },
+   {
+    "__metadata": {
+     "type": "demo"
+    },
+    "MaintenanceOrder": "4000005",
+    "MaintenanceOrderType": "PM02",
+    "MaintenanceOrderDesc": "Lift statutory inspection",
+    "Equipment": "10000002",
+    "MaintOrdBasicStartDate": "/Date(1784592000000)/",
+    "MaintOrdBasicEndDate": "/Date(1784592000000)/",
+    "SystemStatusText": "TECO PRC",
+    "MaintOrdPersonResponsible": "",
+    "MainWorkCenter": "ELEC-02"
+   }
+  ]
+ }
+}
