@@ -36,7 +36,8 @@ curl localhost:8000/equipment/10000001
 
 ## Use the real SAP sandbox
 1. Create a free account at <https://api.sap.com>, open **Equipment (API_EQUIPMENT)** and click **Show API Key**.
-2. `cp .env.example .env`, set `SAP_MODE=sandbox` and `SAP_API_KEY=...`, and export them.
+2. **One click:** run `run_sandbox.bat` (Windows) or `./run_sandbox.sh` (macOS/Linux). It installs everything, asks for the key, starts the API and opens equipment `10001883`.
+   Or by hand: set `SAP_MODE=sandbox` and `SAP_API_KEY=...`, then `uvicorn app.main:app`.
 3. Find real equipment numbers with the API Hub "Try out" page (or `GET .../API_EQUIPMENT/Equipment?$top=5`), then call `/equipment/{id}`.
 
 Sandbox data is SAP's shared demo tenant: many records have no maintenance orders or partners, so `last_maintenance_date` may be `null` and the technician may fall back to the work centre. That is expected and the response says so.
